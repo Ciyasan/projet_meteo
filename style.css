@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lightsteelblue;
+  margin: 0;
+  margin-top: 10%;
+  padding: 0;
+}
+
+#meteo {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: lightskyblue;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 139, 0.3);
+  color: darkblue;
+}
